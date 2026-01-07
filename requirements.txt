@@ -30,3 +30,6 @@ opencensus-ext-azure==1.1.9
 
 # Scipy for drift detection
 scipy==1.11.4
+
+# Streamlit for UI
+streamlit==1.29.0
